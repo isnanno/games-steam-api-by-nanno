@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Script de upload
+upload_to_github.py
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
